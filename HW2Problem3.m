@@ -1,4 +1,4 @@
-% HW2 Problem 1
+% HW2 Problem 3
 % Created on: Feb 17, 2020
 % Author: Chenglong Lin
 % Student ID: 001024390
